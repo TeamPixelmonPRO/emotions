@@ -1,0 +1,20 @@
+{
+    "details": {
+      "sword_trail": {
+        "displayName": "Sword trail",
+        "parts": []
+      },
+      "ruler_crown": {
+        "displayName": "Ruler's crown",
+        "parts": [
+          {
+            "key": "main",
+            "bindPoint": "head",
+            "modelPath": "models/accessory_rulers_crown.json",
+            "diffuseTexturePath": "textures/accessory_rulers_crown_diffuse.png",
+            "inkedTexturePath": "textures/accessory_rulers_crown_inked.png"
+          }
+        ]
+      }
+    }
+  }
